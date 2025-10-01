@@ -31,7 +31,11 @@ Thesis-Demand-Forecasting/
 │   ├── model_comparisons.png
 │   ├── performance_tables.csv
 │   └── figures/            # Visualization outputs
-│           
+│
+│
+├── LICENSE
+│
+│          
 └── requirements.txt               
 ```
 
@@ -95,5 +99,12 @@ If you find this work useful, please cite:
 ```
 Torkamand, Hodais. "Improving Product Demand Forecasting Using the Combination of Deep Learning Models and Dempster-Shafer Theory." Master's Thesis, 2025.
 ```
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
